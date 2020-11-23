@@ -9,6 +9,6 @@ public class Main {
         audi.setcolor("green");
         audi.setenginecapacity(5000);
         audi.setdoor(4);
-        audi.setnumber("5dsc");
+        audi.setnumber("6788989");
     }
 }
