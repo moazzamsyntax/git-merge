@@ -10,5 +10,10 @@ public class Main {
         audi.setenginecapacity(5000);
         audi.setdoor(4);
         audi.setnumber("5dsc");
+        audi.getcolor();
+        audi.getdoors();
+        audi.getenginecapacity();
+        audi.getnumber();
+        
     }
 }
