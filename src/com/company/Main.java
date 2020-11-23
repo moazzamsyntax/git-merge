@@ -6,11 +6,11 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Car audi= new Car("audi");
+        Car audi= new Car("BMWW");
         audi.setcolor("green");
-        audi.setenginecapacity(5000);
+        audi.setenginecapacity(1000000);
         audi.setdoor(4);
-        audi.setnumber("6788989");
+        audi.setnumber("6788343434");
 
 
         audi.getcolor();
