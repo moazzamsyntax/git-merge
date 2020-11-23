@@ -11,7 +11,7 @@ public class Car {
         System.out.println("Name of car is:" + name);
     }
 
-    public void setdoor(String door) {
+    public void setdoor(int door) {
         doors = door;
     }
     public void setenginecapacity(int enginec) {
